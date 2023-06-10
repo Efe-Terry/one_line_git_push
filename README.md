@@ -1,6 +1,6 @@
-<h1>Linux</h1>
+<h1 style{align: center}>Linux</h1>
 
-# one_line_git_push
+one_line_git_push
 Add files to github with just "1" line of code *_*
 
 
